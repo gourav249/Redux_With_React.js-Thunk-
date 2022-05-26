@@ -1,0 +1,18 @@
+{
+  "Alldetails": [
+    {
+      "name": "Gourav Kumar",
+      "email": "gouravkumar@gmail.com",
+      "phone": "9113311389",
+      "country": "INDIA",
+      "id": 4
+    },
+    {
+      "name": "Alisha patro",
+      "email": "AlishaPatro@gmail.com",
+      "phone": "1234678906",
+      "country": "INDIA",
+      "id": 5
+    }
+  ]
+}
